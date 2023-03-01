@@ -1,7 +1,7 @@
 # Hardhat Project for Elections
 
 I created this project basically to learn hardhat framework. This project has a single contract to conduct transparent 
-elections, where the results can be computed from events.
+elections, where the results can be computed from events. All the functions are covered with unit tests.
 
 Some of the hardhat tasks:
 
