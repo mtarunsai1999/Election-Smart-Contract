@@ -1,0 +1,15 @@
+{
+  "name": "elections",
+  "version": "1.0.0",
+  "description": "Elections smart contract and UI",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tarun S. Meradakonda (tarun@tarunsai.xyz)",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "bytes32": "^0.0.3",
+    "hardhat": "^2.12.6"
+  }
+}
